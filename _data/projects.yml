@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+# Fedora
+- project: Fedora Project
+  role: Translator & Language Coordinator
+  duration: 2008 &mdash; Present
+  url: "https://www.fedoraproject.org"
+  description: The home of Fedora Linux
 
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# Gramps
+- project: Gramps
+  role: Translator
+  duration: 2020 &mdash; Present
+  url: "https://github.com/gramps-project/gramps"
+  description: Gramps is a free software project and community. We strive to produce a genealogy program that is both intuitive for hobbyists and feature-complete for professional genealogists. It is a community project, created, developed and governed by genealogists.
